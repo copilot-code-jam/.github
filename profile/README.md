@@ -1,6 +1,6 @@
 # Welcome to the Copilot Code Jam! 
 
-## The challenge
+## Challenge
 
 * **Theme**: The theme of this code jam is ✨ "*Starry Skies*" ✨
 * **Teams**: We recommend *3-5 members* for the best experience.
@@ -14,6 +14,6 @@
     - Add a short description of your game (e.g. `A platformer from the beginner's tutorial for learning Phaser 3.`)
 3. Click the green button "Create repository"
 
-## We want to hear from you
+## Vote
 
 Please [vote here](https://github.com/copilot-code-jam/.github/discussions) to let us know about your jam experience.
