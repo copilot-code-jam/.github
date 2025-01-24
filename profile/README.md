@@ -22,12 +22,21 @@
 
 ## Resources
 
-* Official documentation 
+* Official docs: 
   * [Phaser Documentation](https://docs.phaser.io/)
   * [GitHhub Copilot Documentation](https://docs.github.com/en/copilot)
-* Copilot features
-  *
-* Tips & Tricks
+* Copilot features:
+  * Chat in the IDE: [Asking GitHub Copilot Questions in your IDE](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide)
+  * Chat in GitHub: [Asking GitHub Copilot Questions in GitHub](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-github)
+  * Model picker: [Using Claude 3.5 Sonnet in GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/using-claude-sonnet-in-github-copilot)
+  * Code suggestions: [Getting code suggestions in your IDE](https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot)
+  * Multi-file edits: [Copilot Edits](https://code.visualstudio.com/docs/copilot/copilot-edits)
+  * Copilot CLI: [Using GitHub Copilot in the command line](https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line)
+  * PR summaries: [Creating a PR summary with GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-for-pull-requests/creating-a-pull-request-summary-with-github-copilot)
+  * Code Reviews: [Using Copilot Code Review](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review)
+  * Refactor Code: [Refactoring code with Github Copilot](https://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot/refactoring-code-with-github-copilot)
+  * Write tests: [Writing tests with GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot/writing-tests-with-github-copilot)
+* Tips & Tricks:
   * [GitHub Copilot Chat Cookbook](https://docs.github.com/en/enterprise-cloud@latest/copilot/example-prompts-for-github-copilot-chat)
   * [Prompt engineering for GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
   * [Best practices for using GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot)
