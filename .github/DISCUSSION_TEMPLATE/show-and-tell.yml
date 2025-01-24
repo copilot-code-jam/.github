@@ -1,6 +1,12 @@
 title: "<Name of your game>"
 labels: ["game submission"]
 body:
+  - type: input
+    attributes:
+      label: Game name
+      description: The name of your game.
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
