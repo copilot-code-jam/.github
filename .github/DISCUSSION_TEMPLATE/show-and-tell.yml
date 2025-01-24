@@ -1,34 +1,30 @@
-title: "<Name of your game>"
-labels: ["game submission"]
+title: "Game submission"
+labels: ["Game submission"]
 body:
   - type: input
     attributes:
-      label: Game name
-      description: The name of your game.
+      label: 🎮 Game Name
+      description: Insert the name of your game.
     validations:
       required: true
+  - type: input
+    attributes:
+      label: 📜 Game Description
+      description: Provide a quick summary of your game, including its theme, objectives, and any unique features.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: 📜 Game Description
+      description: Provide a quick summary of your game, including its theme, objectives, and any unique features.
+    validations:
+      required: true  
   - type: markdown
     attributes:
       value: |
-        # 🎮 Game Name
-        <!-- Insert the name of your game -->
-
-        ## 📜 Short Description
-        <!-- Provide a quick summary of your game, including its theme, objectives, and any unique features -->
-
-        ## 📂 Repository Name
-        <!-- Provide the name of your GitHub repository and include a link -->
-        [Repository Name](https://github.com/your-username/your-repo)
-
-        ## 🤖 How I've Used GitHub Copilot
+        # 🤖 How I've Used GitHub Copilot
         <!-- Describe how GitHub Copilot assisted in your development process, e.g.:
         - Generating reusable Phaser functions.
         - Suggesting sprite animations or physics configurations.
         - Speeding up coding for game states, player mechanics, or AI behaviors.
         - Helping debug or refactor Phaser code snippets. -->
-
-        ## 🚀 Screenshots or Demos (Optional)
-        <!-- Add any visuals or links to live demos to showcase your game in action! -->
-
-        ## 📝 What I’d Love Feedback On
-        <!-- Specify areas you'd like feedback on, such as game mechanics, art style, performance, or code quality -->
