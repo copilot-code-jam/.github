@@ -16,9 +16,9 @@
 
 ## When you're done
 
-1. Vote in <a href="/copilot-code-jam/.github/discussions/categories/polls" data-view-component="true" class="ActionList-content ActionList-content--visual16" data-turbo-frame="repo-content-turbo-frame"><span class="ActionList-item-visual ActionList-item-visual--leading"><span aria-hidden="true" data-view-component="true"><g-emoji alias="ballot_box" fallback-src="https://github.githubassets.com/assets/1f5f3-daa7b33294bf.png">🗳️</g-emoji></span></span><span class="ActionList-item-label ">Polls</span></a> to let us know about your jam experience.
+1. **🗳️  Polls**: [Vote](https://github.com/copilot-code-jam/.github/discussions/polls/categories/polls) to let us know about your jam experience.
 
-2. [Optional] Submit your game info in <a href="/copilot-code-jam/.github/discussions/categories/show-and-tell" data-view-component="true" class="ActionList-content ActionList-content--visual16" data-turbo-frame="repo-content-turbo-frame"><span class="ActionList-item-visual ActionList-item-visual--leading"><span aria-hidden="true" data-view-component="true"><g-emoji alias="raised_hands" fallback-src="https://github.githubassets.com/assets/1f64c-27bfef07f049.png">🙌</g-emoji></span></span><span class="ActionList-item-label ">Show and tell</span></a> for a chance to win a [GitHub Shop](https://thegithubshop.com/) voucher.
+2. **🙌  Show and tell** (Optional): [Submit your game info](copilot-code-jam/.github/discussions/categories/show-and-tell) for a chance to win a (swag) voucher.
 
 ## Resources
 
