@@ -3,24 +3,28 @@ labels: ["Game submission"]
 body:
   - type: input
     attributes:
+      id: Name
       label: 🎮 Game Name
       description: Insert the name of your game.
     validations:
       required: true
   - type: input
     attributes:
+      id: Description
       label: 📜 Game Description
       description: Provide a quick summary of your game, including its theme, objectives, and any unique features.
     validations:
       required: true
   - type: input
     attributes:
-      label: 📜 Game Description
-      description: Provide a quick summary of your game, including its theme, objectives, and any unique features.
+      id: repository
+      label: 🏷️ Repository Name
+      description: Provide the name of your game's repository.
     validations:
       required: true  
   - type: markdown
     attributes:
+      id: copilot
       value: |
         # 🤖 How I've Used GitHub Copilot
         <!-- Describe how GitHub Copilot assisted in your development process, e.g.:
