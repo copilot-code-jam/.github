@@ -1,5 +1,5 @@
-title: "[Show and tell]"
-labels: ["Show and tell"]
+title: "<Name of your game>"
+labels: ["game submission"]
 body:
   - type: markdown
     attributes:
