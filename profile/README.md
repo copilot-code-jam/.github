@@ -23,5 +23,6 @@
 ## Resources
 
 * [Phaser Documentation](https://docs.phaser.io/)
+* [GitHhub Copilot Documentation](https://docs.github.com/en/copilot)
 * [Copilot Chat Cookbook](https://docs.github.com/en/enterprise-cloud@latest/copilot/example-prompts-for-github-copilot-chat)
 * [Prompt engineering for GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
