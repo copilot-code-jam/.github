@@ -14,6 +14,10 @@
     - Add a short description of your game (e.g. `A platformer from the beginner's tutorial for learning Phaser 3.`)
 3. Click the green button "Create repository"
 
+## When you're done
+
+
+
 ## Vote
 
 Please [vote here](https://github.com/copilot-code-jam/.github/discussions) to let us know about your jam experience.
