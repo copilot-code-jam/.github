@@ -26,3 +26,4 @@
 * [GitHhub Copilot Documentation](https://docs.github.com/en/copilot)
 * [GitHub Copilot Chat Cookbook](https://docs.github.com/en/enterprise-cloud@latest/copilot/example-prompts-for-github-copilot-chat)
 * [Prompt engineering for GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
+* [Best practices for using GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot)
