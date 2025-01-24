@@ -22,7 +22,7 @@ body:
       description: Provide the name of your game's repository.
     validations:
       required: true  
-  - type: markdown
+  - type: textarea
     id: copilot
     attributes:
       value: |
