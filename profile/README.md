@@ -16,11 +16,12 @@
 
 ## When you're done
 
-1. **🗳️  Polls**: [Vote](https://github.com/copilot-code-jam/.github/discussions/polls/categories/polls) to let us know about your jam experience.
+1. **🗳️  Polls**: [Vote](https://github.com/copilot-code-jam/.github/discussions/categories/polls) to let us know about your jam experience.
 
-2. **🙌  Show and tell** (Optional): [Submit your game info](copilot-code-jam/.github/discussions/categories/show-and-tell) for a chance to win a (swag) voucher.
+2. **🙌  Show and tell** (Optional): [Submit your game info](https://github.com/copilot-code-jam/.github/discussions/categories/show-and-tell) for a chance to win a (swag) voucher.
 
 ## Resources
 
 * [Phaser Documentation](https://docs.phaser.io/)
 * [Copilot Chat Cookbook](https://docs.github.com/en/enterprise-cloud@latest/copilot/example-prompts-for-github-copilot-chat)
+* [Prompt engineering for GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
