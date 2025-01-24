@@ -25,6 +25,7 @@ body:
   - type: textarea
     id: copilot
     attributes:
+      label: Copilot Usage
       value: |
         # 🤖 How I've Used GitHub Copilot
         <!-- Describe how GitHub Copilot assisted in your development process, e.g.:
