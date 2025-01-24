@@ -22,10 +22,10 @@
 
 ## Resources
 
-* Official docs: 
+* **Official docs**: 
   * [Phaser Documentation](https://docs.phaser.io/)
   * [GitHhub Copilot Documentation](https://docs.github.com/en/copilot)
-* Copilot features:
+* **Copilot features**:
   * Chat in the IDE: [Asking GitHub Copilot Questions in your IDE](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide)
   * Chat in GitHub: [Asking GitHub Copilot Questions in GitHub](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-github)
   * Model picker: [Using Claude 3.5 Sonnet in GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/using-claude-sonnet-in-github-copilot)
@@ -36,7 +36,7 @@
   * Code Reviews: [Using Copilot Code Review](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review)
   * Refactor Code: [Refactoring code with Github Copilot](https://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot/refactoring-code-with-github-copilot)
   * Write tests: [Writing tests with GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot/writing-tests-with-github-copilot)
-* Tips & Tricks:
+* **Tips & Tricks**:
   * [GitHub Copilot Chat Cookbook](https://docs.github.com/en/enterprise-cloud@latest/copilot/example-prompts-for-github-copilot-chat)
   * [Prompt engineering for GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
   * [Best practices for using GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot)
